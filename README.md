@@ -1,4 +1,6 @@
 ### Hi there 👋
+:smile:
+Good to know you from Github!:thumbsup:
 
 <!--
 **felixfupivotal/felixfupivotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
